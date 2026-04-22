@@ -227,3 +227,15 @@
 **Pré-requisito:** Usuário autorizado à ter subafiliados  
 **Resultado esperado:** O cadastro deve ser realizado com sucesso  
 
+---
+
+### BRD-020 - Recuperação de senha
+**Passos:**
+1. Na tela de login, clicar em "Esqueceu a senha"
+2. Digitar um email de afiliado
+3. Clicar no botão "Enviar link de recuperação"
+4. Seguir instruções recebidas por email
+
+**Pré-requisito:** Usuário logado com o perfil Afiliado  
+**Resultado esperado:** O afiliado deve ser capaz de redefinir sua senha de acesso
+
