@@ -225,7 +225,7 @@
 
 ---
 
-### BRD-019 - Afiliados - Gerenciamento
+### BRD-020 - Afiliados - Gerenciamento
 **Passos:**
 1. Navegar até "Meus Afiliados"
 2. Clicar no botão "Gerenciar" em um dos afiliados listados
@@ -237,7 +237,7 @@
 
 ---
 
-### BRD-020 - Ranking - Busca e Filtros
+### BRD-021 - Ranking - Busca e Filtros
 **Passos:**
 1. Navegar até "Ranking de Afiliados"
 2. Fazer busca por nome e cidade
@@ -248,7 +248,7 @@
 
 ---
 
-### BRD-021 - Ranking - Links e Edição
+### BRD-022 - Ranking - Links e Edição
 **Passos:**
 1. Navegar até "Ranking de Afiliados"
 2. Clicar no botão "Ver links"
@@ -261,7 +261,7 @@
 
 ---
 
-### BRD-022 - Cupons - Busca
+### BRD-023 - Cupons - Busca
 **Passos:**
 1. Navegar até "Cupons"
 2. Verificar lista de cupons
@@ -272,7 +272,7 @@
 
 ---
 
-### BRD-023 - Cupons - Edição
+### BRD-024 - Cupons - Edição
 **Passos:**
 1. Navegar até "Cupons"
 2. Clicar no botão "Editar"
@@ -284,7 +284,7 @@
 
 ---
 
-### BRD-024 - Cupons - Adição
+### BRD-025 - Cupons - Adição
 **Passos:**
 1. Navegar até "Cupons"
 2. Clicar no botão "Adicionar"
@@ -296,7 +296,7 @@
 
 ---
 
-### BRD-025 - Cupons - Exclusão
+### BRD-026 - Cupons - Exclusão
 **Passos:**
 1. Navegar até "Cupons"
 2. Clicar no botão "Excluir" no cupom criado no teste anterior
@@ -306,7 +306,7 @@
 
 ---
 
-### BRD-026 - Financeiro - Lista e Filtros
+### BRD-027 - Financeiro - Lista e Filtros
 **Passos:**
 1. Navegar até "Financeiro"
 2. Fazer busca por nome
@@ -317,7 +317,7 @@
 
 ---
 
-### BRD-027 - Financeiro - Perfil
+### BRD-028 - Financeiro - Perfil
 **Passos:**
 1. Navegar até "Financeiro"
 2. Clicar em "Ver Perfil" em qualquer um dos afiliados da lista
@@ -328,7 +328,7 @@
 
 ---
 
-### BRD-028 - Financeiro - Relatório
+### BRD-029 - Financeiro - Relatório
 **Passos:**
 1. Navegar até "Financeiro"
 2. Clicar em "Ver Relatório" em qualquer um dos afiliados da lista
@@ -340,7 +340,7 @@
 
 ---
 
-### BRD-029 - Financeiro - Exportação
+### BRD-030 - Financeiro - Exportação
 **Passos:**
 1. Navegar até "Financeiro"
 2. Clicar em "Exportar"
@@ -352,7 +352,7 @@
 
 ---
 
-### BRD-029 - Perfil
+### BRD-031 - Perfil
 **Passos:**
 1. No canto superior direito, clicar na imagem de perfil
 2. Clicar em "Meu Perfil"
@@ -361,5 +361,5 @@
 
 **Pré-requisito:** Usuário logado com o perfil Marca  
 **Resultado esperado:** Os dados do perfil do usuário devem ser alterados de acordo com as informações preenchidas  
-**Resultado obtido:** ______  
-**Status:** Aprovado / Reprovado  
+
+---
